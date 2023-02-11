@@ -1,0 +1,2 @@
+# LengiajesIa
+App de traduccion
